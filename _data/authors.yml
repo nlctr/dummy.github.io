@@ -2,13 +2,14 @@
 # Remove file or replace with your own
 
 Billy Rick:
-  name: Billy Rick
+  name: Laura
   picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
+  instagram: "@nailcoutureitalia"
   links:
-    - title: Twitter
-      url: https://twitter.com/billyrick
+    - title: Instagram
+      url: https://www.instagram.com/nailcoutureitalia/
       icon: fab fa-twitter-square
+      # <i class="fa-brands fa-instagram-square"></i>
 
 Cornelius Fiddlebone:
   name: Cornelius Fiddlebone
