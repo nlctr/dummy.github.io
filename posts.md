@@ -1,5 +1,5 @@
 ---
-title: Post Archive
+title: Archivio Post
 layout: posts
 permalink: /posts/
 show_excerpts: false

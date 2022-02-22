@@ -85,9 +85,12 @@ collections:
   posts:
     output: true 
     permalink: /:collection/:path/
-  recipes:
+  tutorials:
     output: true
     permalink: /:collection/:path/
+  products:
+    output: true
+    permalink: /:collection/:path/  
 
 # Front Matter Defaults
 defaults:
@@ -99,15 +102,23 @@ defaults:
       layout: post
       comments: true
       share: true
-  # Recipe defaults
+  # Tutorials defaults
   - scope:
-      path: "_recipes"
-      type: recipes
+      path: "_tutorials"
+      type: tutorials
     values:
       layout: post
       comments: true
       share: true
-
+  # Products defaults
+  - scope:
+      path: "_products"
+      type: products
+    values:
+      layout: post
+      comments: true
+      share: true
+    
 # Site Author
 author:
   name: Laura
@@ -123,7 +134,7 @@ author:
 footer_links:
   - title: Youtube
     url: https://www.youtube.com/channel/UCXG-32PI05SIU4rjhtlRzXA
-    icon: fab fa-youtube-square
+    icon: fab fa-youtube
   - title: Instagram
     url: https://instagram.com/nailcoutureitalia
     icon: fab fa-instagram
