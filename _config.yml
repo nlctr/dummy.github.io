@@ -18,7 +18,7 @@ remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/light.css"
 locale: it-IT
 title: "Nailcouture Blog"
-description: "It really is the best."
+description: "The best for nails lovers."
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://nailcouture.it" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: "/images/logo.png"
@@ -108,6 +108,7 @@ defaults:
       layout: post
       comments: true
       share: true
+      newsletter: true
   # Tutorials defaults
   - scope:
       path: "_tutorials"
@@ -116,6 +117,7 @@ defaults:
       layout: post
       comments: true
       share: true
+      newsletter: true
   # Reviews defaults
   - scope:
       path: "_reviews"
@@ -124,6 +126,7 @@ defaults:
       layout: post
       comments: true
       share: true
+      newsletter: true
     
 # Site Author
 author:
@@ -140,7 +143,7 @@ author:
 # Footer Links
 footer_links:
   - title: Youtube
-    url: https://www.youtube.com/channel/UCXG-32PI05SIU4rjhtlRzXA
+    url: https://www.youtube.com/c/NailCoutureItalia
     icon: fab fa-youtube
   - title: Instagram
     url: https://instagram.com/nailcoutureitalia
