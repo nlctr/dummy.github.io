@@ -20,11 +20,17 @@ locale: it-IT
 title: "Nailcouture Blog"
 description: "It really is the best."
 baseurl: # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://nailcouture.it" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: true # reading time estimates, e.g. true
 words_per_minute: 200
+
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
+
+# Newsletter
+mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
 mathjax:
   enable: # MathJax equations, e.g. true, false (default)
@@ -129,6 +135,7 @@ author:
     - title: Instagram
       url: https://instagram.com/nailcoutureitalia
       icon: fab fa-instagram
+
 
 # Footer Links
 footer_links:
