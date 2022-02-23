@@ -1,9 +1,9 @@
 ---
-title: Products
+title: Reviews
 layout: collection
-permalink: /products/
+permalink: /reviews/
 show_excerpts: false
-collection: products
+collection: reviews
 entries_layout: grid
 ---
 

@@ -88,7 +88,7 @@ collections:
   tutorials:
     output: true
     permalink: /:collection/:path/
-  products:
+  reviews:
     output: true
     permalink: /:collection/:path/  
 
@@ -110,10 +110,10 @@ defaults:
       layout: post
       comments: true
       share: true
-  # Products defaults
+  # Reviews defaults
   - scope:
-      path: "_products"
-      type: products
+      path: "_reviews"
+      type: reviews
     values:
       layout: post
       comments: true
