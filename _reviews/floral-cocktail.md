@@ -1,8 +1,8 @@
 ---
-title: "Prodotti Economici must-have su Aliexpress"
+title: "Spring Collection Floral Cocktail"
 image: 
-  path: /images/blog-aliexpress.jpg
-  thumbnail: /images/blog-aliexpress-400x200.jpg
+  path: /images/blog-floral-cocktail.jpg
+  thumbnail: /images/blog-floral-cocktail-400x200.jpg
   caption: "Photo from [@nailcoutureitalia](https://www.instagram.com/nailcoutureitalia/)"
 ---
 Quando ho cominciato a comporre il mio kit per la ricostruzione unghie mi sono resa conto che gli strumenti, i prodotti e le apparecchiature da avere erano **tanti**. Da qui è sorta l'esigenza di capire dove poter  **risparmiare** senza compromettere la qualità del risultato finale. 
@@ -42,7 +42,7 @@ Qui troverai la mia lista, che ho diviso in categorie. I **Consumabili** sono pr
 | Nail Bijoux | [link](https://s.click.aliexpress.com/e/_d8crDup) | Decorazioni 3d per nailart gioiello|
 | Microperle | [link](https://s.click.aliexpress.com/e/_Ae8ERI )   | Perline in metallo  |
 | Foglia oro| [link](https://s.click.aliexpress.com/e/_AdbQCE ) | Foglio metallico sottilissimo                          |
-| Box  decorazioni | [link](https://s.click.aliexpress.com/e/_A2DbL5  ) | Contenitore per cristalli|
+| Box per decorazioni | [link](https://s.click.aliexpress.com/e/_A2DbL5  ) | Contenitore per cristalli|
 | Glitter 6 colori | [link](https://s.click.aliexpress.com/e/_Attqpd  ) | Glitter mix con diversi temi colore                          |
 | Glitter rombi | [link](https://s.click.aliexpress.com/e/_A2DbL5  ) | Glitter romboidali |
 | Glitter 24 colori | [link](https://s.click.aliexpress.com/e/_9fISLN) |Glitter di alta qualità 24  colori          |
@@ -54,7 +54,7 @@ Qui troverai la mia lista, che ho diviso in categorie. I **Consumabili** sono pr
 | Mini-torcia UV | [link](https://s.click.aliexpress.com/e/_AVF942) | mini-lampada polimerizzazione|
 | Pennello gel | [link](https://s.click.aliexpress.com/e/_AkfM5U)   | Pennello square sintetico  |
 | Punta Raptor| [link](https://s.click.aliexpress.com/e/_9jRCS4 ) | Punta rimozione in tungsteno                    |
-| Punta Ceramica| [link](https://s.click.aliexpress.com/e/_AKy1Zx  ) | Punta rimozione semipermanente|
+| Punta Ceramica Conica | [link](https://s.click.aliexpress.com/e/_AKy1Zx  ) | Punta rimozione semipermanente|
 | Punta Fiammifero | [link](https://s.click.aliexpress.com/e/_AWgVZu ) | Punta di precisione                    |
 | Pinza Pinching | [link](https://s.click.aliexpress.com/e/_AYWPIf ) | Pinza per curva C |
 
