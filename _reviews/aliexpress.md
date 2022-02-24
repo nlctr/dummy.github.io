@@ -1,39 +1,82 @@
 ---
-title: "I miei Preferiti su Aliexpress"
+title: "Prodotti economici must-have"
 image: 
   path: /images/blog-dual-tips.jpg
   thumbnail: /images/blog-dual-tips-400x200.jpg
   caption: "Photo from [Nailcouture](https://www.instagram.com/nailcoutureitalia/)"
 ---
-Questa e la mia lista di consumabili. 
+Quando ho cominciato a comporre il mio kit per la ricostruzione unghie mi sono resa conto che gli strumenti, i prodotti e le apparecchiature da avere erano **tanti**. Da qui è sorta l'esigenza di capire dove poter  **risparmiare** senza compromettere la qualità del risultato finale. 
+
+### Dove non risparmiare
+Con l'esperienza ho capito che i prodotti su cui non sono disposta a risparmiare rientrano in tre categorie. La prima sono i materiali che restano a contatto con l'unghia naturale per periodi prolungati di tempo, come le basi per il semipermanente e il builder gel. La seconda sono le lampade per la polimerizzazione del gel, chiamate in gergo ~~fornetto~~. La terza sono gli strumenti che lavorano a diretto contatto con l'unghia naturale e le zone più delicate (le *cuticole* e la *matrice*), cioé le punte per la manicure.
+
+### Shopping on a Budget
+Dopo aver chiarito dove non sono disposta a scendere a compromessi passiamo al sodo. In questa sezione scoprirai quali sono i prodotti economici di cui non posso fare a meno e dove acquistarli. 
+
+> Quali sono i prodotti economici must-have per il tuo kit manicure e dove acquistarli?
+
+La risposta si trova nell'e-commerce asiatico più chiacchierato del web, Aliexpress. Aliexpress è il gigante della vendita al dettaglio. Si tratta di una piattaforma paragonabile ad Amazon, dove diversi fornitori espongono i loro prodotti, rendendo molto semplice la ricerca da parte di chi acquista. Su Aliexpress si riforniscono sia privati (come me) che aziende. Se sei un buon osservatore noterai che i prodotti di cui ti parlerò li puoi trovare anche in vendita nei siti italiani con una notevole differenza di prezzo.
+
+Ho cominciato a fare i primi acquisti su questo e-commerce nel 2017. Purtroppo non tutti i miei acquisti sono stati un successo, perché l'immagine promozionale dei prodotti non rispecchiava sempre la reale qualità e le mie aspettative. Per questo motivo ho raccolto in una lista tutti i prodotti che ritengo validi per condividerli con te. Alcuni li ho comprati solo una volta, altri sono degli *staples* nel mio kit e non posso rimanere senza. 
+
+Trovo questa lista molto utile per me stessa, perché la uso come *checklist* per il mio stock di prodotti. Appena mi rendo conto che qualcosa sta per terminare, lo riordino con un click. 
+Spero che la lista possa essere utile anche a te. Voglio farti scoprire il mio kit e farti evitare acquisti inutili. 
+
+Qui troverai la mia lista, che ho diviso in categorie. I **Consumabili** sono prodotti prevalentamente usa e getta che uso *ogni volta* che faccio la manicure su di me o alle mie clienti e modelle. Le **Decorazioni** sono prodotti per la nailart e per tutti i lavori più artistici. Gli **Strumenti** includono sia pinze e pennelli, ma anche punte fresa per la rimozione del materiale. Infine, alle **Tips** ho dedicato una categoria a parte perché mi sono resa conto che ne ho tantissime per diversi tipi di lavori.
 
 | Consumabili       | Link | Descrizione                                                             |
 |-------------------------|--------|--------------------------------------------------------------|
-| Bastoncini d'arancio | [link](https://s.click.aliexpress.com/e/_9xTxf9) | Spingicuticole monouso igienici e delicati           |
+| Bastoncini d'arancio | [link](https://s.click.aliexpress.com/e/_9xTxf9) | Spingicuticole monouso igienici           |
 | Lime Slim | [link](https://s.click.aliexpress.com/e/_97RpEO) | Lime sottili per rifinire la manicure
-| Mandrino | [link](https://s.click.aliexpress.com/e/_AO9O7a) | Supporto per i cilindretti adesivi monouso |
-| Pads | [link](https://s.click.aliexpress.com/e/_9jnuMb)   | Salviettine senza pelucchi da usare con il cleanser |
-| Spazzoline | [link](https://s.click.aliexpress.com/e/_AZrUY7) | Spazzoline per la manicure disinfettabili                           |
+| Mandrino | [link](https://s.click.aliexpress.com/e/_AO9O7a) | Supporto per i cilindretti abrasivi |
+| Cilindri | [link](https://s.click.aliexpress.com/e/_9fb6rE ) | Scovolini abrasivi |
+| Pads | [link](https://s.click.aliexpress.com/e/_9jnuMb)   | Salviettine senza pelucchi |
+| Spazzoline | [link](https://s.click.aliexpress.com/e/_AZrUY7) | Spazzoline per la manicure                          |
+| Mini Buffer | [link](https://s.click.aliexpress.com/e/_A1IoOR) | Buffer monouso                          |
+| Micro Applicatori | [link](https://s.click.aliexpress.com/e/_9fexMO) | Micro brushes|
 
-Decorazioni 
+
 
 | Decorazioni       | Link | Descrizione                                                             |
 |-------------------------|--------|--------------------------------------------------------------|
-| Nail Bijoux | [link](https://s.click.aliexpress.com/e/_d8crDup) | Decorazioni 3d ideali per Nailart gioiello|
-| Microperle | [link](https://s.click.aliexpress.com/e/_Ae8ERI )   | Perline in metallo perfette per le Nailart Gioiello e incastonare |
-| Foglia Metallica | [link](https://s.click.aliexpress.com/e/_AdbQCE ) |Foglia oro e argento da applicare sulla dispersione del colore                          |
-| Box per decorazioni | [link](https://s.click.aliexpress.com/e/_A2DbL5  ) | Contenitore per Cristalli e decorazioni                          |
-| Glitter 6 colori | [link](https://s.click.aliexpress.com/e/_Attqpd  ) | Glitter con diversi temi colore abbinato                          |
-| Glitter rombi | [link](https://s.click.aliexpress.com/e/_A2DbL5  ) | Glitter romboidali perfetti per nailart geometriche                          |
-| Glitter 24 colori | [link](https://s.click.aliexpress.com/e/_9fISLN) |Glitter di alta qualità 24 pezzi           |
-| Glitter iridescenti Rose Gold| [link](https://s.click.aliexpress.com/e/_ArzijZ ) | Glitter semitrasparenti perfetti per l'effetto sotto vetro
-|
+| Nail Bijoux | [link](https://s.click.aliexpress.com/e/_d8crDup) | Decorazioni 3d per nailart gioiello|
+| Microperle | [link](https://s.click.aliexpress.com/e/_Ae8ERI )   | Perline in metallo  |
+| Foglia oro| [link](https://s.click.aliexpress.com/e/_AdbQCE ) | Foglio metallico sottilissimo                          |
+| Box per decorazioni | [link](https://s.click.aliexpress.com/e/_A2DbL5  ) | Contenitore per cristalli|
+| Glitter 6 colori | [link](https://s.click.aliexpress.com/e/_Attqpd  ) | Glitter mix con diversi temi colore                          |
+| Glitter rombi | [link](https://s.click.aliexpress.com/e/_A2DbL5  ) | Glitter romboidali |
+| Glitter 24 colori | [link](https://s.click.aliexpress.com/e/_9fISLN) |Glitter di alta qualità 24  colori          |
+| Glitter Rose Gold| [link](https://s.click.aliexpress.com/e/_ArzijZ ) | Glitter iridescenti|
 
-## Materiale necessario
 
-* Dual Form varie misure
-* Acrygel
-* Liquido per modellare 
+| Strumenti       | Link | Descrizione                                                             |
+|-------------------------|--------|--------------------------------------------------------------|
+| Mini-torcia UV | [link](https://s.click.aliexpress.com/e/_AVF942) | mini-lampada polimerizzazione|
+| Pennello gel | [link](https://s.click.aliexpress.com/e/_AkfM5U)   | Pennello square sintetico  |
+| Punta Raptor| [link](https://s.click.aliexpress.com/e/_9jRCS4 ) | Punta rimozione in tungsteno                    |
+| Punta Ceramica Conica | [link](https://s.click.aliexpress.com/e/_AKy1Zx  ) | Punta rimozione semipermanente|
+| Punta Fiammifero | [link](https://s.click.aliexpress.com/e/_AWgVZu ) | Punta di precisione                    |
+| Pinza Pinching | [link](https://s.click.aliexpress.com/e/_AYWPIf ) | Pinza per curva C |
 
-## Istruzioni
-Fai questo e quello
+
+
+| Tips       | Link | Descrizione                                                             |
+|-------------------------|--------|--------------------------------------------------------------|
+| Tips Mandorla | [link](https://s.click.aliexpress.com/e/_AOJYdV) | Ruota esposizione colori|
+| Porta Tips | [link](https://s.click.aliexpress.com/e/_9Anhdp)   | 5 supporti magnetici  |
+| Tips Decorazione | [link](https://s.click.aliexpress.com/e/_99VNdp) | Tips a mandorla per nailart|
+| Extension Tips | [link](https://s.click.aliexpress.com/e/_d7cpdSv ) | Tips allungamento forma ballerina|
+| Dual Tips  | [link](https://s.click.aliexpress.com/e/_A8S251) | Tip per ricostruzione                    |
+
+## IVA e Dogana
+Nel 2021 sono entrate in vigore nuove regole per gli acquisti fuori dall'Unione Europea. Queste regole riguardano anche i nostri acquisti su AliExpress. 
+
+Prima del 1 luglio 2021 se il valore dichiarato delle merci era inferiore a 22€ non si pagava l'IVA. Ciò significava che quei prodotti entravano in Europa senza costi o tasse aggiuntivi, con un evidente risparmio per chi acquistava.
+
+Dal 1 luglio 2021 è stato abolito il limite di esenzione IVA, quindi non si può più aggirare la dogana, perché tutte le merci dovranno essere tassate in base all’importo dichiarato. Questo cambiamento ha portato ad un aumento del costo finale dei prodotti, ai quali dobbiamo aggiungere +22% di IVA.
+Per capire tutti i dettagli, ti invito a leggere [questo articolo](https://techboom.net/aliexpress-iva-e-dogana-da-luglio-2021-come-ordinare/).
+
+Questo aumento del prezzo lo possiamo vedere direttamente al momento del checkout, dove l'IVA viene applicata direttamente dal venditore. Personalmente, questa nuova legge non ha cambiato le mie abitudini di acqusito sull'e-commerce perché i prezzi rimangono comunque vantaggiosi. Personalmente non ho mai dovuto pagare le spese di sdoganamento ed il prezzo finale del prodotto è quello pagato su Aliexpress. 
+
+
+
