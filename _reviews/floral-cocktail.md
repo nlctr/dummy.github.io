@@ -9,12 +9,36 @@ Ormai l'aria di primavera è alle porte (anche per me che vivo in Scandinavia) e
 
 Possiamo mettere nel cassetto i rossi ed i nude e fare spazio nei nostri ripiani alle fresche tonalità pastello.
 
-H296 Forget me not         |  H297 Iris Tonic          |  H298 Jasmin Infusion
-:-------------------------:|:-------------------------:|:-------------------------:
-![](/images/blog-H296-150x150.jpg) | ![](/images/blog-H297-150x150.jpg) | ![](/images/blog-H298-150x150.jpg)
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">H296 Forget me not</th>
+      <th style="text-align: center">H297 Iris Tonic</th>
+      <th style="text-align: center">H298 Jasmin Infusion</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center; width:33%"><img src="/images/blog-H296-150x150.jpg" alt=""></td>
+      <td style="text-align: center; width:33%"><img src="/images/blog-H297-150x150.jpg" alt=""></td>
+      <td style="text-align: center; width:33%"><img src="/images/blog-H298-150x150.jpg" alt=""></td>
+    </tr>
+  </tbody>
+</table>
 
-
-
-H299 Dahlia Sour           |  H300 Sparkling Rose      |  H301 Royal Orchid
-:-------------------------:|:-------------------------:|:-------------------------:
-![](/images/blog-H299-150x150.jpg)  |  ![](/images/blog-H300-150x150.jpg) |  ![](/images/blog-H301-150x150.jpg)
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">H299 Dahlia Sour</th>
+      <th style="text-align: center">H300 Sparkling Rose</th>
+      <th style="text-align: center">H301 Royal Orchid</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center; width:33%"><img src="/images/blog-H299-150x150.jpg" alt=""></td>
+      <td style="text-align: center; width:33%"><img src="/images/blog-H300-150x150.jpg" alt=""></td>
+      <td style="text-align: center; width:33%"><img src="/images/blog-H301-150x150.jpg" alt=""></td>
+    </tr>
+  </tbody>
+</table>

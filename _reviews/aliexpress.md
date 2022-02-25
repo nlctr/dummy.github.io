@@ -10,6 +10,12 @@ Quando ho cominciato a comporre il mio kit per la ricostruzione unghie mi sono r
 ### Dove non risparmiare
 Con l'esperienza ho capito che i prodotti su cui non sono disposta a risparmiare rientrano in tre categorie. La prima sono i materiali che restano a contatto con l'unghia naturale per periodi prolungati di tempo, come le basi per il semipermanente e il builder gel. La seconda sono le lampade per la polimerizzazione del gel. La terza sono gli strumenti che lavorano a diretto contatto con l'unghia naturale e le zone più delicate (le *cuticole* e la *matrice*), cioé le punte per la manicure.
 
+
+<figure style="width: 400px" class="align-center">
+  <img src="{{ '/images/blog-bastoncini-arancio.JPG' | absolute_url }}" alt="">
+  <figcaption>Bastoncini d'arancio per la manicure</figcaption>
+</figure> 
+
 ### Shopping on a Budget
 Dopo aver chiarito dove non sono disposta a scendere a compromessi passiamo al sodo. In questa sezione scoprirai quali sono i prodotti economici di cui non posso fare a meno e dove acquistarli. 
 
