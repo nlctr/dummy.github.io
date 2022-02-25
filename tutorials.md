@@ -7,4 +7,4 @@ collection: tutorials
 entries_layout: grid
 ---
 
-Here you can say what this is
+In questa sezione troverai tutorial step-by-step dettagliati su tanti argomenti: dalla ricostruzione, alla manicure, fino alla nail art!

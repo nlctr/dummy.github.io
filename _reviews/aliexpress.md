@@ -5,7 +5,7 @@ image:
   thumbnail: /images/blog-aliexpress-400x200.jpg
   caption: "Photo from [@nailcoutureitalia](https://www.instagram.com/nailcoutureitalia/)"
 ---
-Quando ho cominciato a comporre il mio kit per la ricostruzione unghie mi sono resa conto che gli strumenti, i prodotti e le apparecchiature da avere erano **tanti**. Da qui è sorta l'esigenza di capire dove poter  **risparmiare** senza compromettere la qualità del risultato finale. 
+Quando ho cominciato a comporre il mio kit per la ricostruzione unghie mi sono resa conto che gli strumenti, i prodotti e le apparecchiature da avere erano *tanti*. Da qui è sorta l'esigenza di capire dove poter  *risparmiare* senza compromettere la qualità del risultato finale. 
 
 ### Dove non risparmiare
 Con l'esperienza ho capito che i prodotti su cui non sono disposta a risparmiare rientrano in tre categorie. La prima sono i materiali che restano a contatto con l'unghia naturale per periodi prolungati di tempo, come le basi per il semipermanente e il builder gel. La seconda sono le lampade per la polimerizzazione del gel. La terza sono gli strumenti che lavorano a diretto contatto con l'unghia naturale e le zone più delicate (le *cuticole* e la *matrice*), cioé le punte per la manicure.
@@ -22,9 +22,9 @@ Ho cominciato a fare i primi acquisti su [Aliexpress](https://s.click.aliexpress
 Trovo questa lista molto utile per me stessa, perché la uso come *checklist* per il mio stock di prodotti. Appena mi rendo conto che qualcosa sta per terminare, lo riordino con un click. 
 Spero che la lista possa essere utile anche a te. Voglio farti scoprire il mio kit e farti evitare acquisti inutili. 
 
-Qui troverai la mia lista, che ho diviso in categorie. I **Consumabili** sono prodotti prevalentamente usa e getta che uso *ogni volta* che faccio la manicure su di me o alle mie clienti e modelle. Le **Decorazioni** sono prodotti per la nailart e per tutti i lavori più artistici. Gli **Strumenti** includono sia pinze e pennelli, ma anche punte fresa per la rimozione del materiale. Infine, alle **Tips** ho dedicato una categoria a parte perché mi sono resa conto che ne ho tantissime per diversi scopi.
+Qui troverai la mia lista, che ho ordinato secondo i prodotti che uso più di frequente. Troverai i consumabili, ovvero prodotti usa e getta che uso *ogni volta* che faccio la manicure su di me o alle mie clienti e modelle. Poi troverai le decorazioni, ovvero prodotti per la nailart e per tutti i lavori più artistici. Gli strumenti includono sia pinze e pennelli, ma anche punte fresa per la rimozione del gel o semipermanente. Infine, ho incluso diversi tipi di tips e mi sono resa conto che ne ho tantissime per diversi scopi.
 
-| Consumabili       | Link | Descrizione                                                             |
+| Prodotto       | Link | Descrizione                                                             |
 |-------------------------|--------|--------------------------------------------------------------|
 | Bastoncini d'arancio | [link](https://s.click.aliexpress.com/e/_9xTxf9) | Spingicuticole monouso igienici           |
 | Lime Slim | [link](https://s.click.aliexpress.com/e/_97RpEO) | Lime sottili per rifinire la manicure
@@ -34,10 +34,6 @@ Qui troverai la mia lista, che ho diviso in categorie. I **Consumabili** sono pr
 | Spazzoline | [link](https://s.click.aliexpress.com/e/_AZrUY7) | Spazzoline per la manicure                          |
 | Mini Buffer | [link](https://s.click.aliexpress.com/e/_A1IoOR) | Buffer monouso                          |
 | Micro Applicatori | [link](https://s.click.aliexpress.com/e/_9fexMO) | Micro brushes|
-
-
-
-| Decorazioni       | Link | Descrizione                                                             |
 |-------------------------|--------|--------------------------------------------------------------|
 | Nail Bijoux | [link](https://s.click.aliexpress.com/e/_d8crDup) | Decorazioni 3d per nailart gioiello|
 | Microperle | [link](https://s.click.aliexpress.com/e/_Ae8ERI )   | Perline in metallo  |
@@ -47,9 +43,6 @@ Qui troverai la mia lista, che ho diviso in categorie. I **Consumabili** sono pr
 | Glitter rombi | [link](https://s.click.aliexpress.com/e/_A2DbL5  ) | Glitter romboidali |
 | Glitter 24 colori | [link](https://s.click.aliexpress.com/e/_9fISLN) |Glitter di alta qualità 24  colori          |
 | Glitter Rose Gold| [link](https://s.click.aliexpress.com/e/_ArzijZ ) | Glitter iridescenti|
-
-
-| Strumenti       | Link | Descrizione                                                             |
 |-------------------------|--------|--------------------------------------------------------------|
 | Mini-torcia UV | [link](https://s.click.aliexpress.com/e/_AVF942) | mini-lampada polimerizzazione|
 | Pennello gel | [link](https://s.click.aliexpress.com/e/_AkfM5U)   | Pennello square sintetico  |
@@ -57,10 +50,6 @@ Qui troverai la mia lista, che ho diviso in categorie. I **Consumabili** sono pr
 | Punta Ceramica| [link](https://s.click.aliexpress.com/e/_AKy1Zx  ) | Punta rimozione semipermanente|
 | Punta Fiammifero | [link](https://s.click.aliexpress.com/e/_AWgVZu ) | Punta di precisione                    |
 | Pinza Pinching | [link](https://s.click.aliexpress.com/e/_AYWPIf ) | Pinza per curva C |
-
-
-
-| Tips       | Link | Descrizione                                                             |
 |-------------------------|--------|--------------------------------------------------------------|
 | Tips Mandorla | [link](https://s.click.aliexpress.com/e/_AOJYdV) | Ruota esposizione colori|
 | Porta Tips | [link](https://s.click.aliexpress.com/e/_9Anhdp)   | 5 supporti magnetici  |

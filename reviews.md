@@ -7,4 +7,4 @@ collection: reviews
 entries_layout: grid
 ---
 
-Qui puoi trovare le recensioni sui prodotti che uso. 
+Qui puoi trovare le recensioni dei prodotti e le novità del mondo nails and beauty che ho avuto l'occasione di testare. 
