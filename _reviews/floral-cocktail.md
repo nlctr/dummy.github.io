@@ -19,9 +19,15 @@ Possiamo mettere nel cassetto i rossi ed i nude e fare spazio nei nostri ripiani
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center; width:33%"><img src="/images/blog-H296-150x150.jpg" alt=""></td>
-      <td style="text-align: center; width:33%"><img src="/images/blog-H297-150x150.jpg" alt=""></td>
-      <td style="text-align: center; width:33%"><img src="/images/blog-H298-150x150.jpg" alt=""></td>
+      <td style="text-align: center; width:33%">
+        <img src="/images/blog-H296-150x150.jpg" alt="H296 Forget me not">
+      </td>
+      <td style="text-align: center; width:33%">
+        <img src="/images/blog-H297-150x150.jpg" alt="H297 Iris Tonic">
+      </td>
+      <td style="text-align: center; width:33%">
+        <img src="/images/blog-H298-150x150.jpg" alt="H298 Jasmin Infusion">
+      </td>
     </tr>
   </tbody>
 </table>
@@ -36,9 +42,9 @@ Possiamo mettere nel cassetto i rossi ed i nude e fare spazio nei nostri ripiani
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center; width:33%"><img src="/images/blog-H299-150x150.jpg" alt=""></td>
-      <td style="text-align: center; width:33%"><img src="/images/blog-H300-150x150.jpg" alt=""></td>
-      <td style="text-align: center; width:33%"><img src="/images/blog-H301-150x150.jpg" alt=""></td>
+      <td style="text-align: center; width:33%"><img src="/images/blog-H299-150x150.jpg" alt="H299 Dahlia Sour"></td>
+      <td style="text-align: center; width:33%"><img src="/images/blog-H300-150x150.jpg" alt="H300 Sparkling Rose"></td>
+      <td style="text-align: center; width:33%"><img src="/images/blog-H301-150x150.jpg" alt="H301 Royal Orchid"></td>
     </tr>
   </tbody>
 </table>

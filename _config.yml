@@ -27,7 +27,7 @@ read_time: true # reading time estimates, e.g. true
 words_per_minute: 200
 
 # Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
+google-analytics: G-VYEWFZP0LG # Add your identifier. For example UA-99631805-1.
 
 # Newsletter
 mailchimp: nailcouture.us14.list-manage.com/subscribe/post?u=88dd7089e9e3bc36a6ba93a2e&amp;id=cbb0e71710 # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e

@@ -6,7 +6,7 @@ image:
   caption: "Photo from [Nailcouture](https://www.instagram.com/nailcoutureitalia/)"
 ---
 
-Tutorial per realizzare una ricostruzione con le dual forms
+In questo tutorial vi svelo i miei segreti per la ricostruzione unghie con le *dual tips*. Questo metodo è diventato molto popolare negli ultimi anni, soprattutto grazie ai video su instagram provenienti dalla Russia. 
 
 ## Materiale necessario
 
@@ -15,4 +15,4 @@ Tutorial per realizzare una ricostruzione con le dual forms
 * Liquido per modellare 
 
 ## Istruzioni
-Fai questo e quello
+
