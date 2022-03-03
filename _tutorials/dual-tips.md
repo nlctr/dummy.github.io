@@ -22,7 +22,7 @@ Ho usato i prodotti di [Emotion Nails](https://bit.ly/emotion-nails) ma puoi usa
 
 > Con il codice **LAURA10** riceverai il 10% di sconto sui prodotti della linea [Emotion Nails](https://bit.ly/emotion-nails), non cumulabile con le offerte in corso.
 
-Ci sono tanti modelli di *dual tips* disponibili, e quelle che preferisco usare al momento sono nello stile **under** perche le trovo molto bilanciate e versatili per realizzare diverse forme da salone (quadrato o mandorla). Puoi trovare delle alternative anche su Aliexpress, dai un'occhiata [qui]({{ site.baseurl }}{% link _reviews/aliexpress.md %}).
+Ci sono tanti modelli di *dual tips* disponibili, e quelle che preferisco usare al momento sono nello stile **under** perchè le trovo molto bilanciate e versatili per realizzare diverse forme da salone (quadrato o mandorla). Puoi trovare delle alternative anche su Aliexpress, dai un'occhiata [qui]({{ site.baseurl }}{% link _reviews/aliexpress.md %}).
 
 * [Punta Turbo Rimozione](https://bit.ly/punta-tubo)  
 * [Punta Diamantata Girocuticole](https://bit.ly/punta-girocuticole-emotion)
@@ -36,7 +36,7 @@ Ci sono tanti modelli di *dual tips* disponibili, e quelle che preferisco usare 
 * [Dual Form Under](https://bit.ly/dual-form-under)
 * [Gel Colla](https://bit.ly/emotion-gel-colla)
 * [Mezze perle](https://bit.ly/emotion-mezze-perle)
-* [High Gloss](sigillante https://bit.ly/high-gloss-emotion)
+* [High Gloss](https://bit.ly/high-gloss-emotion)
 
 ![image-right]({{'/images/dual-tips-under.jpg' | absolute_url }}){: .align-right}
 
@@ -45,7 +45,7 @@ Ci sono tanti modelli di *dual tips* disponibili, e quelle che preferisco usare 
 Ti consiglio di seguire il [video tutorial](https://youtu.be/qagno5AnIys) sul mio canale Youtube per una dimostrazione passo-passo!
 Quando realizzi una stuttura con le dual tips e l'acrygel ti potrebbero tornare utili questi consigli:
 
-1. Scegli la dual tips della **misura adeguata** e non troppo stretta. Non ti preoccupare se misurando la tip sembra troppo larga, perche devi tenere in considerazione lo spessore della plastica stessa, che va "sottratto" allo spessore totale. L'uso di una tip troppo stretta potrebbe risultare in una struttura troppo sottile e sbilanciata. 
+1. Scegli la dual tips della **misura adeguata** e non troppo stretta. Non ti preoccupare se misurando la tip sembra troppo larga, perchè devi tenere in considerazione lo spessore della plastica stessa, che va "sottratto" allo spessore totale. L'uso di una tip troppo stretta potrebbe risultare in una struttura troppo sottile e sbilanciata. 
 
 2. Applica la stessa quantita di prodotto che useresti per una normale ricostruzione con il gel o polygel. Un errore molto comune è quello di usare nella dual tip **piu prodotto del necessiario**. Comincia con una pallina alla base della tip e stendi il prodotto fino alla lunghezza desiderata. 
 

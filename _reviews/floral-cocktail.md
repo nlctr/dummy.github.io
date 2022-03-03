@@ -64,7 +64,7 @@ Vediamo i colori nel dettaglio, secondo le descrizioni riportate nel sito e le m
 
 # La mia recensione
 
-La collezione Primavera 2021 [Floral Cocktail](https://www.aleascosmetics.com/prodotto/kit-primavera-2022-floral-cocktail-non-stop-color-uvled-6pz/) firmata La Femme Professionnel non delude le mie aspettative. 
+La collezione Primavera 2021 [Floral Cocktail](https://www.aleascosmetics.com/prodotto/kit-primavera-2022-floral-cocktail-non-stop-color-uvled-6pz/){:target="_blank"} firmata La Femme Professionnel non delude le mie aspettative. 
 
 La **grafica floreale** e la **storia colori** della collezione è ricercata e trendy. La scelta un po' azzardata del colore giallo lime rende questa collezione molto particolare. I colori sono sfruttabili durante tutto il periodo primavera-estate, le tonalità pastello H298 *Jasmin Infusion* e H299 *Dahlia Sour* si sposeranno benissimo con le pelli abbronzate. 
 
@@ -72,5 +72,5 @@ Per quanto riguarda la **qualità dei semipermanenti**, essi rispecchiano le car
 
 I colori che mi hanno piacevolmente sorpresa sono i **glitter metallizzati**, li trovo molto scorrevoli e coprenti e sono tra i *must-have* della collezione. Personalmente sono un'amante dei colori **caldi ad alta intensità**, quindi i miei semipermanenti preferiti sono l'H296 *Forget me not* e l'H301 *Royal Orchid*.
 
-La linea Non Stop Color è **Cruelty Free** e **7-Free**, priva sostanze nocive come formaldeide, canfora, toluene, DBP, ethyl tosylamide e xilene.
+La linea Non Stop Color è **Cruelty Free**, **HEMA-Free**, e **7-Free**, priva sostanze nocive come formaldeide, canfora, toluene, DBP, ethyl tosylamide e xilene.
 
