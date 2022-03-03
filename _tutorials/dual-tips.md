@@ -52,14 +52,12 @@ Quando realizzi una stuttura con le dual tips e l'acrygel ti potrebbero tornare 
 3. L'accumulo del **prodotto in eccesso sotto la tip** è un altro errore comune e la soluzione è molto semplice! Usa una **torcia UV-LED** per fissare la tip nel girocuticole cosi non si muovera. Nella parte inferiore della tip il prodotto è ancora morbido e potrai lavorarlo per livellare l'accumulo di prodotto.
 
 #### Ecco dove puoi trovare una torcia UV
-<figure style="width: 200px" class="align-right">
+[!<figure style="width: 200px" class="align-right">
   <img src="{{ '/images/mini-lampada.jpg' | absolute_url }}" alt="">
-</figure> 
-
-
+</figure>](https://www.amazon.it/dp/B09JSHBWTJ?ref=exp_nailcoutureitalia_dp_vv_d)
 
   * Su [Aliexpress](https://s.click.aliexpress.com/e/_9gFQ5X) seguendo [questo link](https://s.click.aliexpress.com/e/_AVF942), se hai un piccolo budget e non hai troppa fretta di ricevere il prodotto (i tempi di spedizione sono 2-6 settimane).
-  * Su Amazon questa [mini-lampada](https://www.amazon.it/dp/B09JSHBWTJ?ref=exp_nailcoutureitalia_dp_vv_d) oltre ad essere super cute ti permette di lavorare in autonomia e comodita. Spedizione veloce.
+  * Su Amazon questa [mini-lampada](https://www.amazon.it/dp/B09JSHBWTJ?ref=exp_nailcoutureitalia_dp_vv_d) oltre ad essere super cute ti permette di lavorare in autonomia e comodità. Spedizione veloce.
   * Sul sito di [Nailfor](https://www.nailfor.com/it/?ass=109) questa [mini-lampada ricaricabile](https://www.nailfor.com/it/lampada-professionale-uv-led/7254-LAMPLUS-MINI-LAMPADA-UV-LED-PORTATILE-DOLPHIN-F2-5W-per-fullcover-tips-7449847397363.html?ass=109) ti permette di lavorare in maniera localizzata ed offre una buona potenza. Spedizione veloce.
 
   > Con il codice **NAIL_COUTURE** riceverai il 5% di sconto su tutti prodotti del catalogo [Nailfor](https://www.nailfor.com/it/?ass=109), cumulabile con le offerte in corso.
