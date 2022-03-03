@@ -14,9 +14,9 @@ Nel 2019 ho aperto il mio [canale Youtube]( https://www.youtube.com/c/NailCoutur
 
 Perchè ho creato questo Blog? Il mio sogno è che diventi un **punto di riferimento** per onicotecniche e appassionate delle unghie, e che possiate trovare tante **risorse utili** per orientarvi in questo settore. Mi piace raccontare e condividere le mie esperienze con tutti voi! 
 
-Nella sezione [REVIEWS]({{ site.baseurl}} /reviews) troverete le **recensioni dei prodotti** e novità che ho l'occasione di testare, nella sezione [TUTORIALS]({{ site.baseurl}} /tutorials) vi presento dei **contenuti educativi** che spiegano passo-passo la realizzazione di un lavoro con i miei consigli. Nella sezione [POST]({{ site.baseurl}} /post) trovate un archivio di tutti i post pubblicati! 
+Nella sezione [REVIEWS]({{ site.baseurl}} /reviews) troverete le **recensioni dei prodotti** e novità che ho l'occasione di testare, nella sezione [TUTORIALS]({{ site.baseurl}} /tutorials) vi presento dei **contenuti educativi** che spiegano passo-passo la realizzazione dei miei lavori con i miei consigli. Nella sezione [POST]({{ site.baseurl}} /post) trovate un archivio di tutti i post pubblicati! 
 
-<figure style="width: 400px" class="align-left">
+<figure style="width: 350px" class="align-left">
   <img src="{{ '/images/swirl-art.jpg' | absolute_url }}" alt="">
 </figure>
 
