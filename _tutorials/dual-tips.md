@@ -52,7 +52,7 @@ Quando realizzi una stuttura con le dual tips e l'acrygel ti potrebbero tornare 
 3. L'accumulo del **prodotto in eccesso sotto la tip** è un altro errore comune e la soluzione è molto semplice! Usa una **torcia UV-LED** per fissare la tip nel girocuticole cosi non si muovera. Nella parte inferiore della tip il prodotto è ancora morbido e potrai lavorarlo per livellare l'accumulo di prodotto.
 
 #### Ecco dove puoi trovare una torcia UV
-[!<figure style="width: 200px" class="align-right">
+[<figure style="width: 200px" class="align-right">
   <img src="{{ '/images/mini-lampada.jpg' | absolute_url }}" alt="">
 </figure>](https://www.amazon.it/dp/B09JSHBWTJ?ref=exp_nailcoutureitalia_dp_vv_d)
 

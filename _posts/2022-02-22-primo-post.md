@@ -10,7 +10,7 @@ tags:
 Benvenuti nel mio blog! Il mio nome è Laura e sono una **digital creator** del settore Nails. La mia passione per le unghie, nata nel 2018, si è presto sposata con quella della fotografia e dei social.
 
  
-Nel 2019 ho aperto il mio [canale Youtube]( https://www.youtube.com/c/NailCoutureItalia) dedicato a chi, come me, ricerca ispirazioni ed informazioni su tecniche, prodotti e tendenze. Amo condividere i miei scatti nails e gli ultimi trend del momento anche nella mia [pagina instagram](https://instagram.com/nailcoutureitalia), che mi permette di avere un contatto diretto voi.
+Nel 2019 ho aperto il mio [canale Youtube]( https://www.youtube.com/c/NailCoutureItalia) dedicato a chi, come me, ricerca ispirazioni ed informazioni su tecniche, prodotti e tendenze. Amo condividere i miei scatti nails e gli ultimi trend del momento anche nella mia [pagina instagram](https://instagram.com/nailcoutureitalia), che mi permette di avere un contatto diretto con voi.
 
 Perchè ho creato questo Blog? Il mio sogno è che diventi un **punto di riferimento** per onicotecniche e appassionate delle unghie, e che possiate trovare tante **risorse utili** per orientarvi in questo settore. Mi piace raccontare e condividere le mie esperienze con tutti voi! 
 

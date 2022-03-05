@@ -11,7 +11,9 @@ Facciamo spazio nei nostri cassetti alla frizzante collezione Primavera 2022 [*F
 
 > Con il codice **NAILCOUTURE15** riceverai il 15% di sconto sui prodotti della linea [La Femme Professionnel](https://bit.ly/aleas-cosmetics), non cumulabile con offerte in corso. 
 
-Vediamo i colori nel dettaglio, secondo le descrizioni riportate nel sito e le mie osservazioni personali. Ho aggiunto alla descrizione anche la *temperatura* del colore (caldo o freddo) nel caso vi possa tornare utile, ed una grafica con una striscia metallizzata con la quale ho fatto la classificazione.
+Vediamo i colori nel dettaglio, secondo le descrizioni riportate nel sito e le mie osservazioni personali. Ho aggiunto alla descrizione anche la *temperatura* del colore (caldo o freddo) nel caso vi possa tornare utile.
+
+{% include responsive-embed url="https://www.youtube-nocookie.com/embed/cZwJwrHb-tw?controls=0&amp;" %}
 
 * **H296 Forget me not:** Celeste marino intenso, caldo.
 * **H297 Iris Tonic:** Azzurro glitterato dai riflessi argento, freddo.
@@ -33,13 +35,13 @@ Vediamo i colori nel dettaglio, secondo le descrizioni riportate nel sito e le m
   <tbody>
     <tr>
       <td style="text-align: center; width:33%">
-        <img src="/images/floral-cocktail/1.jpg" alt="H296 Forget me not">
+        <img src="/images/floral-cocktail/blog-H296-150x150.jpg" alt="H296 Forget me not">
       </td>
       <td style="text-align: center; width:33%">
-        <img src="/images/floral-cocktail/2.jpg" alt="H297 Iris Tonic">
+        <img src="/images/floral-cocktail/blog-H297-150x150.jpg" alt="H297 Iris Tonic">
       </td>
       <td style="text-align: center; width:33%">
-        <img src="/images/floral-cocktail/3.jpg" alt="H298 Jasmin Infusion">
+        <img src="/images/floral-cocktail/blog-H298-150x150.jpg" alt="H298 Jasmin Infusion">
       </td>
     </tr>
   </tbody>
@@ -55,16 +57,16 @@ Vediamo i colori nel dettaglio, secondo le descrizioni riportate nel sito e le m
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center; width:33%"><img src="/images/floral-cocktail/4.jpg" alt="H299 Dahlia Sour"></td>
-      <td style="text-align: center; width:33%"><img src="/images/floral-cocktail/5.jpg" alt="H300 Sparkling Rose"></td>
-      <td style="text-align: center; width:33%"><img src="/images/floral-cocktail/6.jpg" alt="H301 Royal Orchid"></td>
+      <td style="text-align: center; width:33%"><img src="/images/floral-cocktail/blog-H300-150x150.jpg" alt="H299 Dahlia Sour"></td>
+      <td style="text-align: center; width:33%"><img src="/images/floral-cocktail/blog-H299-150x150.jpg" alt="H300 Sparkling Rose"></td>
+      <td style="text-align: center; width:33%"><img src="/images/floral-cocktail/blog-H301-150x150.jpg" alt="H301 Royal Orchid"></td>
     </tr>
   </tbody>
 </table>
 
 # La mia recensione
 
-La collezione Primavera 2021 [Floral Cocktail](https://www.aleascosmetics.com/prodotto/kit-primavera-2022-floral-cocktail-non-stop-color-uvled-6pz/){:target="_blank"} firmata La Femme Professionnel non delude le mie aspettative. 
+La collezione Primavera 2021 [Floral Cocktail](https://www.aleascosmetics.com/prodotto/kit-primavera-2022-floral-cocktail-non-stop-color-uvled-6pz/) firmata La Femme Professionnel non delude le mie aspettative. 
 
 La **grafica floreale** e la **storia colori** della collezione è ricercata e trendy. La scelta un po' azzardata del colore giallo lime rende questa collezione molto particolare. I colori sono sfruttabili durante tutto il periodo primavera-estate, le tonalità pastello H298 *Jasmin Infusion* e H299 *Dahlia Sour* si sposeranno benissimo con le pelli abbronzate. 
 
@@ -74,3 +76,4 @@ I colori che mi hanno piacevolmente sorpresa sono i **glitter metallizzati**, li
 
 La linea Non Stop Color è **Cruelty Free**, **HEMA-Free**, e **7-Free**, priva sostanze nocive come formaldeide, canfora, toluene, DBP, ethyl tosylamide e xilene.
 
+![image-right]({{'/images/floral-cocktail/floral.jpg' | absolute_url }}){: .align-right}
